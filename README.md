@@ -3,17 +3,6 @@
 ## Overview
 This project aims to classify dog breeds using deep learning and computer vision techniques. We trained the model using a custom dataset of dog images, leveraging the power of transfer learning with the InceptionV3 model. The model is capable of classifying dog breeds with an accuracy of around 80%, which was achieved through data preprocessing, training, and fine-tuning.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Model](#model)
-- [Training](#training)
-- [Fine-tuning](#fine-tuning)
-- [Real-time Detection](#real-time-detection)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 To get started, clone this repository and install the necessary dependencies:
 
