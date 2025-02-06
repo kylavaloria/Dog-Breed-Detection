@@ -44,8 +44,3 @@ The model is built using the InceptionV3 architecture, pre-trained on the ImageN
 - Dropout for regularization
 - Dense layers with ReLU activation
 - Output layer with Softmax activation for multi-class classification
-
-## Model Summary:
-- Pre-trained InceptionV3 base
-- Fine-tuned for dog breed classification
-- Achieved an accuracy of ~80%
