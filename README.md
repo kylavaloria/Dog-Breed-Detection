@@ -44,3 +44,7 @@ The model is built using the InceptionV3 architecture, pre-trained on the ImageN
 - Dropout for regularization
 - Dense layers with ReLU activation
 - Output layer with Softmax activation for multi-class classification
+
+## Application Snaption
+![Image Classification](Snapshots/Snapshot-1.png)  
+*The model classifies a static image of a dog into its respective breed.*
